@@ -28,4 +28,4 @@ Analyze sales data to identify:
 ## Deliverables
 - Dashboard File
 - SQL Queries
-- PDF Report
+  
